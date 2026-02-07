@@ -2,8 +2,8 @@
 const nextConfig = {
   output: 'export',
 
-  basePath: '/logistics_sistema',
-  assetPrefix: '/logistics_sistema/',
+  basePath: '/logistics',
+  assetPrefix: '/logistics',
 
   trailingSlash: true,
 
