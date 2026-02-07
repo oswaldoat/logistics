@@ -56,8 +56,7 @@ const usuariosEjemplo: Usuario[] = [
   { id: 'U003', nombre: 'Oscar Garay', email: 'oscar.garay@logistics.pe', rol: 'Operador', estado: 'Activo' },
   { id: 'U004', nombre: 'Juan Nina', email: 'juan.nina@logistics.pe', rol: 'Almacenero', estado: 'Inactivo' },
   { id: 'U005', nombre: 'Jorge Taracaya', email: 'jorger.tacaya@logistics.pe', rol: 'Operador', estado: 'Activo' },
-  { id: 'U006', nombre: 'Carlos Ucedo', email: 'carlos.ucedo@logistics.pe', rol: 'Almacenero', estado: 'Inactivo' },
-  { id: 'U007', nombre: 'chapuliño', email: 'elchapulo@logistics.pe', rol: 'Almacenero', estado: 'Inactivo' },
+  { id: 'U006', nombre: 'Carlos Ucedo', email: 'carlos.ucedo@logistics.pe', rol: 'Almacenero', estado: 'Inactivo' }
 ];
 
 // Componentes de interfaz
